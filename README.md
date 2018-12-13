@@ -1,6 +1,6 @@
 # sieve
 
-![alt text](https://raw.githubusercontent.com/Teslov-Mikhail/sieve/master/screenshots/screenshot_20181213_175615.png "Sieves")
+![Sieves](https://raw.githubusercontent.com/Teslov-Mikhail/sieve/master/screenshots/screenshot_20181213_175615.png "Sieves")
 
 Minetest mod that adds Sieve/Sifter to the game.
 
@@ -23,15 +23,15 @@ W W W
 I I I
 ```
 
-![alt text](https://raw.githubusercontent.com/Teslov-Mikhail/sieve/master/screenshots/screenshot_20181213_175828.png "Crafting")
+![Crafting](https://raw.githubusercontent.com/Teslov-Mikhail/sieve/master/screenshots/screenshot_20181213_175828.png "Crafting")
 
 ### Built-in Outpus
 
 #### Gravel
 
-![alt text](https://raw.githubusercontent.com/Teslov-Mikhail/sieve/master/screenshots/screenshot_20181213_180811.png "Gravel")
+![Gravel](https://github.com/Teslov-Mikhail/sieve/raw/master/screenshots/screenshot_20181213_180811.png "Gravel")
 
-- Flint `70%``
+- Flint `70%`
 - Coal `20%`
 - Iron `5%`
 - Copper `5%`
@@ -43,7 +43,7 @@ I I I
 
 #### Dirt ( Only with farming mod )
 
-![alt text](https://raw.githubusercontent.com/Teslov-Mikhail/sieve/master/screenshots/screenshot_20181213_180849.png "Dirt")
+![Dirt](https://github.com/Teslov-Mikhail/sieve/raw/master/screenshots/screenshot_20181213_180849.png "Dirt")
 
 - Wheat seed `50%`
 - Wheat seed x 2 `10%`
